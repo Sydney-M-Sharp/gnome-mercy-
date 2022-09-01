@@ -27,3 +27,5 @@ The gnomes want all available ingredients listed, with a checkbox next to each o
 Once all have been selected, they want a button labeled "Finish" they can click on to say it is complete.
 
 When the "Finish" button is clicked, the request should not appear in the Craft Requests dropdown. It should also immediately appear at the bottom of the screen in a list of completed requests.
+
+![gnome mercy example gif](./gnome-mercy-walkthrough.gif)
